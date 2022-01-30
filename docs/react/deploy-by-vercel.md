@@ -5,6 +5,21 @@ parent: React
 nav_order: 4
 ---
 
+# React + Next.js - Vercel로 배포하기
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
 Next.js 프레임워크를 이용해 React 프로젝트를 만들었다면 Vercel로 배포할 수 있다. 참고로 CRA를 이용해서 React 프로젝트를 진행할 때는 GitHub Pages나 Netlify를 이용해서 배포했었다. (GitHub Pages 배포 방법은 이전에도 정리해놓은 글이 있어서 혹시라도 궁금하다면 [이 글](https://2dowon.netlify.app/etc/publishing-on-github-pages/)을 참고해주세요!)
 
 ✅ Next.js 프레임워크를 이용해 React 프로젝트를 만들었음을 전제로 합니다.

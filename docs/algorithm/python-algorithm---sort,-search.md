@@ -1,13 +1,27 @@
 ---
 layout: default
-title: Python Algorithm - 정렬(sort), 탐색(search)
-parent: Algorithm
-nav_order: 2
+title: 정렬(sort), 탐색(search)
+parent: 어서와! 자료구조와 알고리즘은 처음이지?
+grand_parent: Algorithm
+permalink: /docs/algorithm/python-lecture/sort-search
 ---
 
 | [어서와! 자료구조와 알고리즘은 처음이지?](https://programmers.co.kr/learn/courses/57) 강의를 듣고 정리한 내용입니다.
 
 # 정렬 (sort)
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 정렬은 복수의 원소로 주어진 데이터를 정해진 기준에 따라 새로 늘어놓는 작업이다. 정렬 알고리즘에는 선택 정렬, 버블 정렬, 삽입 정렬 등이 있다. 하지만 Python의 리스트(list)에는 내장된 정렬 기능이 있기 때문에 사실상 직접 정렬 알고리즘을 구현할 필요가 없다.
 

@@ -1,13 +1,27 @@
 ---
 layout: default
-title: Algorithm - 정렬(Sort)
-parent: Algorithm
-nav_order: 6
+title: 정렬(Sort)
+parent: 이것이 취업을 위한 코딩테스트다 with 파이썬
+grand_parent: Algorithm
+permalink: /docs/algorithm/python-book/sort/
 ---
 
 | [이것이 취업을 위한 코딩테스트다 with 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B8945183661)를 읽고 정리한 내용입니다.
 
 # 정렬
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 정렬은 데이터를 특정한 기준에 따라서 순서대로 나열하는 것이다.
 

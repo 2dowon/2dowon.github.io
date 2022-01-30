@@ -5,6 +5,21 @@ parent: React
 nav_order: 2
 ---
 
+# FCM으로 웹 푸시 기능 구현하기
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
 웹 프로젝트를 진행하면서 유저들간의 상호작용시 알림 기능 제공이 필요해 FCM을 통해 웹 푸시 기능을 구현하기로 했다. [FCM(Firebase Cloud Messaging)](https://firebase.google.com/docs/cloud-messaging?hl=ko)은 Firebase에서 제공해주는 서비스 중 하나로 이를 이용하면 Android, iOS 뿐만 아니라 웹에서도 **무료**로 알림 메세지를 전송할 수 있다.
 
 단, 웹 프로젝트의 경우 FCM이 IE와 Safari에서는 동작하지 않는다. iOS 앱을 따로 만들 계획이라면 상관없지만, 모바일 웹을 계획하고 있다면 이 점을 유의해야 한다.

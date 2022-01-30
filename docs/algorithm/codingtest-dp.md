@@ -1,13 +1,27 @@
 ---
 layout: default
-title: Algorithm - 다이나믹 프로그래밍 (Dynamic Programming)
-parent: Algorithm
-nav_order: 8
+title: 다이나믹 프로그래밍 (Dynamic Programming)
+parent: 이것이 취업을 위한 코딩테스트다 with 파이썬
+grand_parent: Algorithm
+permalink: /docs/algorithm/python-book/dynamic-programming/
 ---
 
 | [이것이 취업을 위한 코딩테스트다 with 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B8945183661)를 읽고 정리한 내용입니다.
 
 # 다이나믹 프로그래밍 (Dynamic Programming)
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 다이나믹 프로그래밍 / 동적 계획법은 큰 문제를 작게 나누고, 같은 문제라면 한 번씩만 풀어 문제를 효율적으로 해결하는 알고리즘 기법이다. 그렇기에 메모리 공간을 약간 더 사용하면 연산 속도를 비약적으로 증가시킬 수 있는 방법 중 하나이다. 프로그래밍에서 다이나믹(Dynamic)은 '프로그램이 실행되는 도중에'라는 의미이다.
 

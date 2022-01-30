@@ -1,13 +1,27 @@
 ---
 layout: default
-title: Algorithm - 그리디(Greedy)
-parent: Algorithm
-nav_order: 3
+title: 그리디(Greedy)
+parent: 이것이 취업을 위한 코딩테스트다 with 파이썬
+grand_parent: Algorithm
+permalink: /docs/algorithm/python-book/greedy/
 ---
 
 | [이것이 취업을 위한 코딩테스트다 with 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B8945183661)를 읽고 정리한 내용입니다.
 
 # 그리디 알고리즘 (Greedy Algorithm)
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 그리디 알고리즘은 탐욕법이라고도 한다. 단순 무식하게 탐욕적으로 문제를 푸는 알고리즘이기 때문이다. 이 알고리즘은 현재 상황에서 지금 당장 좋은 것만 고르는 방법으로 미래를 생각하지 않고 지금 이 순간 좋아보이는 것만 선택한다.
 

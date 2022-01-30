@@ -1,13 +1,27 @@
 ---
 layout: default
-title: Algorithm - 이진 탐색(Binary Search)
-parent: Algorithm
-nav_order: 7
+title: 이진 탐색(Binary Search)
+parent: 이것이 취업을 위한 코딩테스트다 with 파이썬
+grand_parent: Algorithm
+permalink: /docs/algorithm/python-book/binary-search/
 ---
 
 | [이것이 취업을 위한 코딩테스트다 with 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B8945183661)를 읽고 정리한 내용입니다.
 
 # 순차 탐색 (Sequential Search)
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 순차 탐색은 가장 기본 탐색 방법이다. N개의 데이터가 있을 때, 그 데이터를 차례대로 하나씩 확인하는 것으로 **리스트 안에 있는 특정한 데이터를 찾기 위해 앞에서부터 데이터를 하나씩 차례대로 확인하는 방법**이다.
 

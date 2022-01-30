@@ -5,6 +5,21 @@ parent: React
 nav_order: 3
 ---
 
+# Redux 사용하기
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
 React를 이용한 프로젝트의 규모가 커지면서 상태관리를 위한 라이브러리를 알아보기 시작했다. React 전역 상태관리를 위한 라이브러리에는 대표적으로 Redux, Mobx, Recoil이 있다. 최근에는 페이스북에서 만든 Recoil이 뜨고 있다고는 하지만, 아직 나는 상태관리를 위한 라이브러리를 하나도 사용해보지 않은 만큼 사람들이 가장 많이 쓰고 있고 그래서 정보가 가장 많은 Redux부터 사용해보기로 했다.
 
 > [npm trends](https://www.npmtrends.com/mobx-vs-recoil-vs-redux)를 통해 상태관리 라이브러리를 확인해보면 압도적으로 Redux를 많이 사용하고 있음을 알 수 있다.

@@ -1,13 +1,27 @@
 ---
 layout: default
-title: Algorithm - 탐색(DFS, BFS)
-parent: Algorithm
-nav_order: 5
+title: 탐색(DFS, BFS)
+parent: 이것이 취업을 위한 코딩테스트다 with 파이썬
+grand_parent: Algorithm
+permalink: /docs/algorithm/python-book/dfs-bfs/
 ---
 
 | [이것이 취업을 위한 코딩테스트다 with 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B8945183661)를 읽고 정리한 내용입니다.
 
 # 탐색
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 - 많은 양의 데이터 중에서 원하는 데이터를 찾는 과정
 - ex. 그래프, 트리 등의 자료구조 안에서 탐색을 하는 문제

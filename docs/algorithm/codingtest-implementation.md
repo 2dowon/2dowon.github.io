@@ -1,13 +1,27 @@
 ---
 layout: default
-title: Algorithm - 구현(Implementation)
-parent: Algorithm
-nav_order: 4
+title: 구현(Implementation)
+parent: 이것이 취업을 위한 코딩테스트다 with 파이썬
+grand_parent: Algorithm
+permalink: /docs/algorithm/python-book/implementation/
 ---
 
 | [이것이 취업을 위한 코딩테스트다 with 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B8945183661)를 읽고 정리한 내용입니다.
 
 # 구현 Implementation
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 구현은 머릿속에 있는 알고리즘을 소스코드로 바꾸는 과정이다. 구현 유형에는 완전 탐색, 시뮬레이션이 있다. 완전 탐색은 모든 경우의 수를 주저 없이 다 계산하는 해결 방법이고, 시뮬레이션은 문제에서 제시한 알고리즘을 한 단계씩 차례대로 직접 수행해서 해결해야 한다.
 

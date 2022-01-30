@@ -1,13 +1,27 @@
 ---
 layout: default
-title: Python Algorithm - 선형 배열(Linear Arrays)
-parent: Algorithm
-nav_order: 1
+title: 선형 배열(Linear Arrays)
+parent: 어서와! 자료구조와 알고리즘은 처음이지?
+grand_parent: Algorithm
+permalink: /docs/algorithm/python-lecture/linear-arrays
 ---
 
 | [어서와! 자료구조와 알고리즘은 처음이지?](https://programmers.co.kr/learn/courses/57) 강의를 듣고 정리한 내용입니다.
 
 # 선형 배열(Linear Arrays)
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 선형 배열 (Linear Arrays)은 데이터들이 선 (line) 처럼 일렬로 늘어선 형태를 말한다.
 
