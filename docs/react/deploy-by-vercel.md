@@ -3,7 +3,6 @@ layout: default
 title: React + Next.js - Vercel로 배포하기
 last_modified_date: 2021-11-16 12:11:53
 parent: React
-nav_order: 4
 ---
 
 # React + Next.js - Vercel로 배포하기

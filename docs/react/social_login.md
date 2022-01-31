@@ -3,7 +3,6 @@ layout: default
 title: REACT로 카카오, 네이버 소셜 로그인 구현하기
 last_modified_date: 2021-07-07 18:07:46
 parent: React
-nav_order: 1
 ---
 
 # REACT로 카카오, 네이버 소셜 로그인 구현하기
