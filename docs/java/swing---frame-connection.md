@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Java Swing - 화면(프레임) 연결
+title: Swing - 화면(프레임) 연결
 last_modified_date: 2020-12-18 15:12:16
 parent: Java
 ---
 
-# Java Swing - 화면(프레임) 연결
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">Swing - 화면(프레임) 연결</div>
 
 {: .no_toc }
 

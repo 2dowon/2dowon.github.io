@@ -5,7 +5,7 @@ last_modified_date: 2021-02-05 14:02:59
 parent: Python
 ---
 
-# LIST, TUPLE, DICT 정렬
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">LIST, TUPLE, DICT 정렬</div>
 
 {: .no_toc }
 

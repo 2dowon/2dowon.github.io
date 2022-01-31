@@ -6,7 +6,7 @@ parent: MySQL
 grand_parent: Database
 ---
 
-# Error Code 1290. 파일 입출력 경로 설정 (secure-file-priv)
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">Error Code 1290. 파일 입출력 경로 설정 (secure-file-priv)</div>
 
 {: .no_toc }
 

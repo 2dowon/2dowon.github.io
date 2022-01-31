@@ -5,7 +5,7 @@ last_modified_date: 2021-01-24 23:01:26
 parent: Python
 ---
 
-# 정규표현식 (Regular Expressions)
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">정규표현식 (Regular Expressions)</div>
 
 {: .no_toc }
 

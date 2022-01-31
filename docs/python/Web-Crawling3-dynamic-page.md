@@ -6,7 +6,7 @@ parent: Web Crawling
 grand_parent: Python
 ---
 
-# 동적 페이지 크롤링
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">동적 페이지 크롤링</div>
 
 {: .no_toc }
 

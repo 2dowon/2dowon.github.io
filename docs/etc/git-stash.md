@@ -5,7 +5,7 @@ last_modified_date: 2021-07-11 18:07:36
 parent: Etc
 ---
 
-# Git Stash 사용법 - 커밋하지 않고 변경사항 임시저장 하기
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">Git Stash 사용법 - 커밋하지 않고 변경사항 임시저장 하기</div>
 
 {: .no_toc }
 

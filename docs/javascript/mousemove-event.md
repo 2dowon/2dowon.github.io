@@ -5,7 +5,7 @@ last_modified_date: 2021-02-15 10:02:26
 parent: JavaScript
 ---
 
-# JS 자료구조 - ES6 Map
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">마우스 따라다니는 원 만들기</div>
 
 {: .no_toc }
 

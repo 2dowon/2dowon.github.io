@@ -6,7 +6,7 @@ parent: Web Crawling
 grand_parent: Python
 ---
 
-# 크롤링이 안될 때
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">크롤링이 안될 때</div>
 
 {: .no_toc }
 

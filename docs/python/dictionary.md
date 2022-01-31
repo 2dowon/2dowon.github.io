@@ -5,7 +5,7 @@ last_modified_date: 2020-12-02 22:12:18
 parent: Python
 ---
 
-# Dictionary
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">Dictionary</div>
 
 {: .no_toc }
 

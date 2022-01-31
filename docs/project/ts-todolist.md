@@ -5,7 +5,7 @@ last_modified_date: 2021-11-16 11:11:54
 parent: Projects
 ---
 
-# React, TS, Recoil, Airtable, React Query로 TO DO LIST 만들기
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">React, TS, Recoil, Airtable, React Query로 TO DO LIST 만들기</div>
 
 ![ts_to-do-list](/assets/images/project/ts_to-do-list.gif)
 

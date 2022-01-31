@@ -9,7 +9,7 @@ permalink: /docs/algorithm/python-book/dynamic-programming/
 
 | [이것이 취업을 위한 코딩테스트다 with 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B8945183661)를 읽고 정리한 내용입니다.
 
-# 다이나믹 프로그래밍 (Dynamic Programming)
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">다이나믹 프로그래밍 (Dynamic Programming)</div>
 
 {: .no_toc }
 

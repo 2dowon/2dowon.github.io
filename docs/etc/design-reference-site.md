@@ -5,7 +5,7 @@ last_modified_date: 2020-12-13 16:12:03
 parent: Etc
 ---
 
-# Design Reference Site
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">Design Reference Site</div>
 
 {: .no_toc }
 

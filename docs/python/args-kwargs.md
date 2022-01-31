@@ -5,7 +5,7 @@ last_modified_date: 2021-02-02 12:02:21
 parent: Python
 ---
 
-# \*args, \*\*kwargs
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">*args, **kwargs</div>
 
 {: .no_toc }
 

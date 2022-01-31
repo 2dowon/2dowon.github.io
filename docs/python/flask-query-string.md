@@ -6,7 +6,7 @@ parent: Flask
 grand_parent: Python
 ---
 
-# query string 값에 따른 html 렌더링
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">query string 값에 따른 html 렌더링</div>
 
 {: .no_toc }
 

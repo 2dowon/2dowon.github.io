@@ -1,11 +1,11 @@
 ---
 layout: default
-title: HTML - 데이터 속성 사용하기
+title: 데이터 속성 사용하기
 last_modified_date: 2021-03-03 21:03:81
 parent: HTML
 ---
 
-# HTML - 데이터 속성 사용하기
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">데이터 속성 사용하기</div>
 
 {: .no_toc }
 

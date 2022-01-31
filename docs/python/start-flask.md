@@ -6,7 +6,7 @@ parent: Flask
 grand_parent: Python
 ---
 
-# Flask 시작하기
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">Flask 시작하기</div>
 
 {: .no_toc }
 

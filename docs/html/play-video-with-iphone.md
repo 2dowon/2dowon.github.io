@@ -5,7 +5,7 @@ last_modified_date: 2022-01-27 17:01:13
 parent: HTML
 ---
 
-# iPhone에서 video가 전체화면 모드로 넘어가는 이슈
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">iPhone에서 video가 전체화면 모드로 넘어가는 이슈</div>
 
 {: .no_toc }
 
@@ -40,6 +40,7 @@ iOS 비디오 정책에 따라 `playsinline` 속성 없이 video를 iPhone에서
 ```
 
 - `controls` : 사용자가 비디오를 조절할 수 있도록 ⇒ 아래 이미지처럼 비디오 재생, 음량 등과 관련한 제어창을 보여준다.
+
   ![video](/assets/images/html/video.png)
 
 - `muted` : 음소거

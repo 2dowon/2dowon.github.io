@@ -6,6 +6,8 @@ parent: Vue
 nav_order: 1
 ---
 
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">Vue에서 image slider 구현하기</div>
+
 ![ImageSlider](/assets/images/vue/imageSlider.gif)
 
 이미지 슬라이더를 만드는 일은 생각보다 자주 있는데, 막상 구현하려고 보면 막막해서 보통 라이브러리를 이용해서 구현하는 경우가 많다. 하지만 바닐라 JS를 이용해서도 생각보다 쉽게 구현할 수 있다!!

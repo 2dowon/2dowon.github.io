@@ -5,7 +5,7 @@ last_modified_date: 2021-04-16 00:04:14
 parent: Etc
 ---
 
-# GitHub Badge 만들기 (shields.io 사용법)
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">GitHub Badge 만들기 (shields.io 사용법)</div>
 
 {: .no_toc }
 

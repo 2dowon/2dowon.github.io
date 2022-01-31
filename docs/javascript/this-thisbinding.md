@@ -5,7 +5,7 @@ last_modified_date: 2021-03-01 20:03:34
 parent: JavaScript
 ---
 
-# this와 this 바인딩
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">this와 this 바인딩</div>
 
 {: .no_toc }
 

@@ -9,7 +9,7 @@ permalink: /docs/algorithm/python-lecture/sort-search
 
 | [어서와! 자료구조와 알고리즘은 처음이지?](https://programmers.co.kr/learn/courses/57) 강의를 듣고 정리한 내용입니다.
 
-# 정렬 (sort)
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">정렬 (sort)</div>
 
 {: .no_toc }
 

@@ -5,7 +5,7 @@ last_modified_date: 2021-07-07 18:07:46
 parent: React
 ---
 
-# REACT로 카카오, 네이버 소셜 로그인 구현하기
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">REACT로 카카오, 네이버 소셜 로그인 구현하기</div>
 
 {: .no_toc }
 

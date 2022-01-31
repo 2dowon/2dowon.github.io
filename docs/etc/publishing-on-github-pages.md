@@ -5,7 +5,7 @@ last_modified_date: 2021-02-14 16:02:44
 parent: Etc
 ---
 
-# GitHub Pages로 배포하기
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">GitHub Pages로 배포하기</div>
 
 {: .no_toc }
 
@@ -22,23 +22,29 @@ parent: Etc
 
 GitHub의 [GitHub Pages](https://pages.github.com/)를 이용하면 `.github.io` 라는 url의 웹 페이지를 무료로 호스팅할 수 있다. 그래서 보통은 개인 블로그와 같은 정적 페이지를 배포할 때 많이 사용하지만, 나는 이번에 간단한 프로젝트의 웹 사이트를 만들기 위해 사용했다. (참고로 지금 글을 적고 있는 현재 블로그는 Netlify를 이용해 배포한 사이트이다.)
 
-# GitHub Pages로 배포하기
+# GitHub Pages로 배포 과정
 
-1. [GitHub](https://github.com/)에서 배포하고자 하는 소스들을 저장할 repository를 만들어야 한다. 이미 repository가 있다면 기존 repository를 사용하면 된다. 이때 repository는 반드시 public 저장소여야 한다.
+## 1. GitHub Repository 만들기
+
+[GitHub](https://github.com/)에서 배포하고자 하는 소스들을 저장할 repository를 만들어야 한다. 이미 repository가 있다면 기존 repository를 사용하면 된다. 이때 repository는 반드시 public 저장소여야 한다.
 
 ![gh-pages1](/assets/images/etc/gh-pages1.png)
 
-2. 다음으로 `gh-pages`라는 이름의 branch를 만들어야 한다. 배포하고자 하는 소스 코드가 해당 branch에 있다는 것을 알려주기 위해서는 반드시 gh-pages라는 이름으로 만들어야 한다.
+## 2. gh-pages 브랜치 만들기
 
-   ![gh-pages2](/assets/images/etc/gh-pages2.png)
+다음으로 `gh-pages`라는 이름의 branch를 만들어야 한다. 배포하고자 하는 소스 코드가 해당 branch에 있다는 것을 알려주기 위해서는 반드시 gh-pages라는 이름으로 만들어야 한다.
 
-   만약 sourcetree나 github desktop과 같은 프로그램을 이용해 branch를 생성한 경우에는 push 하는 것을 잊지 말자. local 환경에 만든 branch를 remote 환경인 GitHub에도 push를 해야 GitHub에서 해당 branch를 확인할 수 있다.
+![gh-pages2](/assets/images/etc/gh-pages2.png)
 
-3. Environments의 github-pages를 클릭
+만약 sourcetree나 github desktop과 같은 프로그램을 이용해 branch를 생성한 경우에는 push 하는 것을 잊지 말자. local 환경에 만든 branch를 remote 환경인 GitHub에도 push를 해야 GitHub에서 해당 branch를 확인할 수 있다.
+
+## 3. Environments의 github-pages를 클릭
 
 ![gh-pages3](/assets/images/etc/gh-pages3.png)
 
-4. Deployments의 View deployment 버튼을 누르면 `username.github.io/a name of the project(gh-pages)` 라는 url을 가진 웹 사이트로 이동할 수 있다.
+## 4. Deployments의 View deployment 버튼 클릭
+
+Deployments의 View deployment 버튼을 누르면 `username.github.io/a name of the project(gh-pages)` 라는 url을 가진 웹 사이트로 이동할 수 있다.
 
 ![gh-pages4](/assets/images/etc/gh-pages4.png)
 

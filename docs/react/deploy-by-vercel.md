@@ -5,7 +5,7 @@ last_modified_date: 2021-11-16 12:11:53
 parent: React
 ---
 
-# React + Next.js - Vercel로 배포하기
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">React + Next.js - Vercel로 배포하기</div>
 
 {: .no_toc }
 

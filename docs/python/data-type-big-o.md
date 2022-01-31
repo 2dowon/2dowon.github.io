@@ -5,7 +5,7 @@ last_modified_date: 2021-02-09 12:02:41
 parent: Python
 ---
 
-# List, Set, Dict 자료형에 따른 시간 복잡도(Big-O)
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">List, Set, Dict 자료형에 따른 시간 복잡도(Big-O)</div>
 
 {: .no_toc }
 

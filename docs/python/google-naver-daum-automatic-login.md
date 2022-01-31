@@ -5,7 +5,7 @@ last_modified_date: 2020-11-29 22:11:80
 parent: Python
 ---
 
-# 구글, 네이버, 다음 자동 로그인
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">구글, 네이버, 다음 자동 로그인</div>
 
 {: .no_toc }
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: web broswer
+title: 웹 스크레이핑 / 크롤링
 last_modified_date: 2020-11-25 00:11:23
 parent: Web Crawling
 grand_parent: Python
 ---
 
-# web broswer
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">웹 스크레이핑 / 크롤링</div>
 
 {: .no_toc }
 
@@ -20,8 +20,6 @@ grand_parent: Python
 </details>
 
 ---
-
-# 웹 스크레이핑 / 크롤링
 
 ## 웹 스크레이핑(Web Scraping) / 웹 크롤링(Web Crawling) 이란
 

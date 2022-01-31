@@ -5,7 +5,7 @@ last_modified_date: 2021-03-15 14:03:26
 parent: JavaScript
 ---
 
-# Spread Syntax
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">Spread Syntax</div>
 
 {: .no_toc }
 

@@ -5,7 +5,7 @@ last_modified_date: 2021-10-22 00:10:68
 parent: Etc
 ---
 
-# Sourcetree를 이용해 Github과 Gitlab 연동하기
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">Sourcetree를 이용해 Github과 Gitlab 연동하기</div>
 
 {: .no_toc }
 

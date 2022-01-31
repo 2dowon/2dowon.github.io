@@ -5,7 +5,7 @@ last_modified_date: 2021-08-22 16:08:23
 parent: React
 ---
 
-# FCM으로 웹 푸시 기능 구현하기
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">FCM으로 웹 푸시 기능 구현하기</div>
 
 {: .no_toc }
 

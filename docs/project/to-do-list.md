@@ -5,7 +5,7 @@ last_modified_date: 2021-02-15 17:02:39
 parent: Projects
 ---
 
-# TO DO LIST
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">TO DO LIST</div>
 
 ![todolist](/assets/images/project/todolist.gif)
 
