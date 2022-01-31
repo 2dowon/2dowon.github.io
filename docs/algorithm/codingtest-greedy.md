@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 그리디(Greedy)
+date: 2021-01-12 23:01:04
 parent: 이것이 취업을 위한 코딩테스트다 with 파이썬
 grand_parent: Algorithm
 permalink: /docs/algorithm/python-book/greedy/

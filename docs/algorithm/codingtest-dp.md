@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 다이나믹 프로그래밍 (Dynamic Programming)
+date: 2021-01-29 21:01:13
 parent: 이것이 취업을 위한 코딩테스트다 with 파이썬
 grand_parent: Algorithm
 permalink: /docs/algorithm/python-book/dynamic-programming/

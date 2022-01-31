@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 정렬(Sort)
+date: 2021-01-20 01:01:17
 parent: 이것이 취업을 위한 코딩테스트다 with 파이썬
 grand_parent: Algorithm
 permalink: /docs/algorithm/python-book/sort/

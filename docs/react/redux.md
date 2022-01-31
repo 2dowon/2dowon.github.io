@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Redux 사용하기
+date: 2021-11-13 20:11:06
 parent: React
 nav_order: 3
 ---

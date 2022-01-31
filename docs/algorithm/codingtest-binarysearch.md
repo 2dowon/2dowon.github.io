@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 이진 탐색(Binary Search)
+date: 2021-01-23 23:01:45
 parent: 이것이 취업을 위한 코딩테스트다 with 파이썬
 grand_parent: Algorithm
 permalink: /docs/algorithm/python-book/binary-search/
