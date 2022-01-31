@@ -6,12 +6,15 @@
 h1,
 .text-alpha {
   @include fs-8;
-  font-weight: 300;
+  font-weight: 800;
+  font-family: "Catamaran", sans-serif;
 }
 
 h2,
 .text-beta {
   @include fs-6;
+  font-weight: 700;
+  font-family: "Catamaran", sans-serif;
 }
 
 h3,

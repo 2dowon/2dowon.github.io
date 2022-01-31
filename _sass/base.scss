@@ -30,7 +30,6 @@ ul,
 dl,
 pre,
 address,
-blockquote,
 table,
 div,
 hr,
@@ -58,6 +57,10 @@ p {
   margin-bottom: 1em;
 }
 
+li p {
+  margin: 0.5em 0;
+}
+
 a {
   color: $link-color;
   text-decoration: none;
@@ -81,7 +84,7 @@ a:not([class]) {
 
 code {
   font-family: $mono-font-family;
-  font-size: 0.75em;
+  font-size: 1em;
   line-height: $body-line-height;
 }
 

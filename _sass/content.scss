@@ -8,12 +8,21 @@
 .main-content {
   line-height: $content-line-height;
 
+  blockquote {
+    border-left: 4px solid #cccccc;
+    margin: 0;
+
+    p {
+      padding-left: 10px;
+      color: #808080;
+    }
+  }
+
   ol,
   ul,
   dl,
   pre,
   address,
-  blockquote,
   .table-wrapper {
     margin-top: 0.5em;
   }
@@ -130,7 +139,6 @@
     grid-column: 2;
     margin-bottom: 0;
     margin-left: 1em;
-    blockquote,
     div,
     dl,
     dt,

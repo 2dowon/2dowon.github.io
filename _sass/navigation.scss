@@ -19,6 +19,7 @@
     }
 
     .nav-list-link {
+      font-size: 15px;
       display: block;
       min-height: $nav-list-item-height-sm;
       padding-top: $sp-1;
@@ -45,8 +46,10 @@
       }
 
       &.active {
+        color: #106ae5 !important;
         font-weight: 600;
         text-decoration: none;
+        border-left: 4px solid #106ae5;
       }
 
       &:hover,

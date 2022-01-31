@@ -119,16 +119,16 @@ figure.highlight {
   color: #93a1a1;
 } // generic //
 .highlight .k {
-  color: #859900;
+  color: #b388ff;
 } // keyword //
 .highlight .l {
   color: #93a1a1;
 } // literal //
 .highlight .n {
-  color: #93a1a1;
+  color: #ffffff;
 } // name //
 .highlight .o {
-  color: #859900;
+  color: #67cdcc;
 } // operator //
 .highlight .x {
   color: #cb4b16;
@@ -143,7 +143,7 @@ figure.highlight {
   color: #859900;
 } // comment.preproc //
 .highlight .c1 {
-  color: #586e75;
+  color: #616161;
 } // comment.single //
 .highlight .cs {
   color: #859900;
@@ -184,7 +184,7 @@ figure.highlight {
   color: #cb4b16;
 } // keyword.constant //
 .highlight .kd {
-  color: #268bd2;
+  color: #b388ff;
 } // keyword.declaration //
 .highlight .kn {
   color: #859900;
@@ -205,16 +205,16 @@ figure.highlight {
   color: #2aa198;
 } // literal.number //
 .highlight .s {
-  color: #2aa198;
+  color: #00e676;
 } // literal.string //
 .highlight .na {
-  color: #555;
+  color: #ffffff;
 } // name.attribute //
 .highlight .nb {
-  color: #b58900;
+  color: #b388ff;
 } // name.builtin //
 .highlight .nc {
-  color: #268bd2;
+  color: #ffff00;
 } // name.class //
 .highlight .no {
   color: #cb4b16;
@@ -229,43 +229,43 @@ figure.highlight {
   color: #cb4b16;
 } // name.exception //
 .highlight .nf {
-  color: #268bd2;
+  color: #ff9100;
 } // name.function //
 .highlight .nl {
-  color: #555;
+  color: #ffff00;
 } // name.label //
 .highlight .nn {
   color: #93a1a1;
 } // name.namespace //
 .highlight .nx {
-  color: #555;
+  color: #ffffff;
 } // name.other //
 .highlight .py {
   color: #93a1a1;
 } // name.property //
 .highlight .nt {
-  color: #268bd2;
+  color: #e2777a;
 } // name.tag //
 .highlight .nv {
   color: #268bd2;
 } // name.variable //
 .highlight .ow {
-  color: #859900;
+  color: #b388ff;
 } // operator.word //
 .highlight .w {
   color: #93a1a1;
 } // text.whitespace //
 .highlight .mf {
-  color: #2aa198;
+  color: #ff9100;
 } // literal.number.float //
 .highlight .mh {
-  color: #2aa198;
+  color: #ff9100;
 } // literal.number.hex //
 .highlight .mi {
-  color: #2aa198;
+  color: #ff9100;
 } // literal.number.integer //
 .highlight .mo {
-  color: #2aa198;
+  color: #ff9100;
 } // literal.number.oct //
 .highlight .sb {
   color: #586e75;
@@ -277,7 +277,7 @@ figure.highlight {
   color: #93a1a1;
 } // literal.string.doc //
 .highlight .s2 {
-  color: #2aa198;
+  color: #00e676;
 } // literal.string.double //
 .highlight .se {
   color: #cb4b16;
@@ -286,7 +286,7 @@ figure.highlight {
   color: #93a1a1;
 } // literal.string.heredoc //
 .highlight .si {
-  color: #2aa198;
+  color: #ffffff;
 } // literal.string.interpol //
 .highlight .sx {
   color: #2aa198;
@@ -337,4 +337,14 @@ figure.highlight {
     border-top-left-radius: 0;
     border-top-right-radius: 0;
   }
+}
+
+code.language-plaintext.highlighter-rouge {
+  background-color: #f1f6fd !important;
+  color: #2f415a !important;
+  border: none;
+}
+
+code {
+  color: white;
 }

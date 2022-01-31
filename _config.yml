@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 2dowon
+title: < 2do_log />
 description: TIL
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2dowon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -78,7 +78,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 # appears at the bottom of every page's main content
 
 # Back to top link
-back_to_top: true
+back_to_top: false
 back_to_top_text: "Back to top"
 
 footer_content: ""
@@ -108,10 +108,15 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 plugins:
   - jekyll-seo-tag
 
+# kramdown:
+#   syntax_highlighter_opts:
+#     block:
+#       line_numbers: false
+
+markdown: kramdown
 kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
+  input: GFM
+  syntax_highlighter: rouge
 
 compress_html:
   clippings: all

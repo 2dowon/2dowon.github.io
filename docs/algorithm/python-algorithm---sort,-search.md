@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 정렬(sort), 탐색(search)
-date: 2021-01-03 23:01:58
+last_modified_date: 2021-01-03 23:01:58
 parent: 어서와! 자료구조와 알고리즘은 처음이지?
 grand_parent: Algorithm
 permalink: /docs/algorithm/python-lecture/sort-search

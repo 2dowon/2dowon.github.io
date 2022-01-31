@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 선형 배열(Linear Arrays)
-date: 2020-12-19 21:12:12
+last_modified_date: 2020-12-19 21:12:12
 parent: 어서와! 자료구조와 알고리즘은 처음이지?
 grand_parent: Algorithm
 permalink: /docs/algorithm/python-lecture/linear-arrays

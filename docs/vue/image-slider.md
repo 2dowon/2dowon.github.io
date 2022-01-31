@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vue에서 image slider 구현하기
-date: 2022-01-06 23:01:11
+last_modified_date: 2022-01-06 23:01:11
 parent: Vue
 nav_order: 1
 ---
