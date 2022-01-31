@@ -40,14 +40,14 @@ layout: table_wrappers
     </symbol>
   </svg>
 
-  <div class="side-bar" style="width: 300px !important;">
+  <div class="side-bar" >
     <div class="site-header">
       <a href="{{ '/' | absolute_url }}" class="site-title lh-tight" style="font-family: 'Catamaran', sans-serif; font-weight:800; font-size:30px !important; ">{% include title.html %}</a>
       <a href="#" id="menu-button" class="site-button">
         <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
       </a>
     </div>
-    <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav" style="width: 300px !important;">
+    <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav" >
       {% if site.just_the_docs.collections %}
         {% assign collections_size = site.just_the_docs.collections | size %}
         {% for collection_entry in site.just_the_docs.collections %}
