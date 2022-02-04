@@ -1,7 +1,6 @@
 ---
 layout: default
 title: React Native
-nav_order: 3
 has_children: true
 permalink: /docs/react-native
 ---
