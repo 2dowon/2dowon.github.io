@@ -13,6 +13,10 @@ permalink: /
 <div style="font-size:18px; font-weight: 500; border-left: 3px solid #404040; padding-left:15px !important; color:#000000; margin-top:100px; margin-bottom:15px;">Recent Posts ✨</div>
 
 <li>
+    <a href="https://2dowon.github.io/docs/javascript/logical-assignments/">JS 논리 연산자 - ‘||=’ 와 ‘??’</a>
+    <span style="color:#808080">22.03.09</span>
+</li>
+<li>
     <a href="https://2dowon.github.io/docs/etc/npm-peerDependencies-error/">npm peerDependencies error</a>
     <span style="color:#808080">22.02.19</span>
 </li>
