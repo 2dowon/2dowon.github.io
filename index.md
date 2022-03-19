@@ -13,6 +13,10 @@ permalink: /
 <div style="font-size:18px; font-weight: 500; border-left: 3px solid #404040; padding-left:15px !important; color:#000000; margin-top:100px; margin-bottom:15px;">Recent Posts ✨</div>
 
 <li>
+    <a href="https://2dowon.github.io/docs/javascript/multiple-arrow-function/">여러개의 화살표 함수 (=>)</a>
+    <span style="color:#808080">22.03.19</span>
+</li>
+<li>
     <a href="https://2dowon.github.io/docs/javascript/ios-new-date/">Safari(iOS)에서 new Date 이슈</a>
     <span style="color:#808080">22.03.16</span>
 </li>
@@ -47,8 +51,4 @@ permalink: /
 <li>
     <a href="https://2dowon.github.io/docs/react/deploy-by-vercel/">React + Next.js - Vercel로 배포하기</a>
     <span style="color:#808080">21.11.16</span>
-</li>
-<li>
-    <a href="https://2dowon.github.io/docs/etc/airtable/">Airtable 사용법</a>
-    <span style="color:#808080">21.11.06</span>
 </li>
