@@ -20,11 +20,11 @@ parent: React
 
 ---
 
-# \***\*IntersectionObserver\*\***
+# IntersectionObserver
 
 ![intersection-observer](/assets/images/react/intersection-observer.png)
 
-`[IntersectionObserver` API](https://developer.mozilla.org/ko/docs/Web/API/Intersection_Observer_API)는 위 이미지처럼 Target element가 Viewport 안에 보여지고 있는지를 관찰하는 API이다. Image Lasy loading, Infinitie Scroll 등을 구현할 때 활용할 수 있는 API로 직접 사용해도 되지만, react-intersection-observer와 같은 라이브러리를 이용한다면 더 쉽게 사용할 수 있다.
+[IntersectionObserver API](https://developer.mozilla.org/ko/docs/Web/API/Intersection_Observer_API)는 위 이미지처럼 Target element가 Viewport 안에 보여지고 있는지를 관찰하는 API이다. Image Lasy loading, Infinitie Scroll 등을 구현할 때 활용할 수 있는 API로 직접 사용해도 되지만, react-intersection-observer와 같은 라이브러리를 이용한다면 더 쉽게 사용할 수 있다.
 
 # react-intersection-observer
 
@@ -69,11 +69,11 @@ const Component = () => {
 - `fallbackInView` : 만약 IntersectionObserver API가 실행되지 않고 에러가 발생할 경우, inView 값을 설정할 수 있다. 기본값은 false이다.
 - 🧪 trackVisibility, delay는 아직 실험적인 props이다.
 
-# **infinite scroll (무한 스크롤) 구현하기**
+# infinite scroll (무한 스크롤) 구현하기
 
 infinite scroll을 구현하는 방법은 다양하다. 전에는 스크롤이 될 때마다 남은 스크롤 길이를 파악해서 스크롤 길이가 일정 길이 미만으로 남았을 때 데이터를 다시 가져오도록 만들었었는데, 이번에는 좀 다른 방식으로 구현해봤다. Intersection Observer API를 이용해서 하는 방식인데, [react-intersection-observer 라이브러리](https://www.npmjs.com/package/react-intersection-observer)를 이용했다.
 
-### 그 전에 왜 굳이 Intersection Observer를 이용해 무한 스크롤을 구현할까 🤔
+## 그 전에 왜 굳이 Intersection Observer를 이용해 무한 스크롤을 구현할까 🤔
 
 위에 말했듯이 infinite scroll을 구현하는 방법은 다양하다. 대표적인 예로, Scroll Event를 감지해서 스크롤의 남은 길이를 통해 일정 길이 미만이 남을 경우에 다시 데이터를 가져오도록 하는 방식이 있다.
 
