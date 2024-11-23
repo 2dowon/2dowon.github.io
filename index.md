@@ -6,9 +6,9 @@ description: "Today DOWON Learned."
 permalink: /
 ---
 
-<div style="font-family: 'Gugi', cursive; font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom: 50px;">TODAY DOWON LEARNED.</div>
+<div style="font-family: 'Gugi', cursive; font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom: 50px;">TODAY DOWON LEARNED</div>
 
-<div align="right"><a href="{{ '/about' | absolute_url }}" style="color:#0687f0;">About 2dowon</a></div>
+<a href="https://2dowon.com"><p style="font-size:20px; font-weight: 500;">🚀 새로운 블로그로 이전했습니다!</p></a>
 
 <div style="font-size:18px; font-weight: 500; border-left: 3px solid #404040; padding-left:15px !important; color:#000000; margin-top:100px; margin-bottom:15px;">Recent Posts ✨</div>
 
