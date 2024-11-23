@@ -43,8 +43,8 @@ layout: table_wrappers
   <div class="side-bar" >
     <div class="site-header">
       <!-- <a href="{{ '/' | absolute_url }}" class="site-title lh-tight" style="font-family: 'Catamaran', sans-serif; font-weight:800; font-size:30px !important; ">{% include title.html %}</a> -->
-      <a href="{{ '/' | absolute_url }}" class="site-title lh-tight" style="display:flex; justify-content: center;">
-        <img src="/assets/images/logo.png" style="width: 55px;"/>
+      <a href="{{ '/' | absolute_url }}" class="site-title lh-tight" style="display:flex; justify-content: center; padding: 10px;">
+        <img src="/assets/images/logo.png" style="width: 40px;"/>
       </a>
       <a href="#" id="menu-button" class="site-button">
         <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
@@ -83,24 +83,19 @@ layout: table_wrappers
           <div id="search-results" class="search-results"></div>
         </div>
       {% endif %}
-      {% include header_custom.html %}
-      {% if site.aux_links %}
         <nav aria-label="Auxiliary" class="aux-nav">
           <ul class="aux-nav-list">
-            {% for link in site.aux_links %}
               <li class="aux-nav-list-item">
-                <a href="{{ link.last }}" class="site-button"
+                <a href="https://www.2dowon.com/" class="site-button"
                   {% if site.aux_links_new_tab %}
                   target="_blank" rel="noopener noreferrer"
                   {% endif %}
                 >
-                  {{ link.first }}
+                🚀 새로운 블로그로 이전했습니다!
                 </a>
               </li>
-            {% endfor %}
           </ul>
         </nav>
-      {% endif %}
     </div>
     <div id="main-content-wrap" class="main-content-wrap">
       {% unless page.url == "/" %}
